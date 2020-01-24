@@ -1,0 +1,28 @@
+/* ------------------------------------------ */
+/* Post                                       */
+/* ------------------------------------------ */
+
+.post {
+    width: 75%;
+    padding: 62px 0 40px 48px;
+  }
+  
+  .post__media {
+    height: 23.063rem;
+    margin-bottom: 1.125rem;
+    background: #e0209f url("../img/book-girl.jpg") center center no-repeat;
+    background-size: cover;
+    padding: 26px 0 0 29px;
+  }
+  
+  .post__highlight {
+    max-width: 23.063rem;
+    border-radius: 4px;
+    padding: 22px 28px;
+    background-color: #e0209f;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    line-height: initial;
+    text-transform: uppercase;
+  }

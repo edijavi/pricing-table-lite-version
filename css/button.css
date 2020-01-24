@@ -1,0 +1,22 @@
+/* ------------------------------------------ */
+/* Button                                     */
+/* ------------------------------------------ */
+
+.btn {
+    display: inline-block;
+    min-width: 9.375rem;
+    min-height: 2.813rem;
+    border-style: none ;
+    border-radius: 3px;
+    padding: 6px 20px;
+    background-color: #0091ff;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 1.25rem;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #333;
+  }
